@@ -7,4 +7,6 @@ tags: [first post]
 comments: false
 ---
 
-I'd be posting my experiences here from time to time, I hope you find them fascinating and enriching!    
+I'd be posting my experiences here from time to time, I hope you find them fascinating and enriching! 
+
+Feel free to share my post on Facebook, Twitter or Google+ if you appreciate it! 
