@@ -63,14 +63,14 @@ Meanwhile, I have some screenshots that you can view to see how these simulation
 **2) discs.py**
 
 {% capture images %}
-  https://user-images.githubusercontent.com/43961129/51442931-39500480-1d08-11e9-813b-56892f65b506.png 
+  https://user-images.githubusercontent.com/43961129/51442932-3bb25e80-1d08-11e9-908b-5e2ea9969d5b.png
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
 **3) coalescence.py**
 
 {% capture images %}
-  https://user-images.githubusercontent.com/43961129/51442932-3bb25e80-1d08-11e9-908b-5e2ea9969d5b.png
+  https://user-images.githubusercontent.com/43961129/51442931-39500480-1d08-11e9-813b-56892f65b506.png 
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
