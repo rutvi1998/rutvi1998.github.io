@@ -28,28 +28,27 @@ an important role in the implementation of this project include the following :
 (coefficient of elasticity (e) = 1)
  
 The above formula has been derived from the equations given below :
+  m1 * u1 + m2 * u2  =  m1 * v1 + m2 * v2  (conservation of momentum)
 	
-	 m1 * u1 + m2 * u2  =  m1 * v1 + m2 * v2  (conservation of momentum)
-	
-	 1/2 * m1 * u1 * u1 + 1/2 * m2 * u2 * u2 =  1/2 * m1 * v1 * v1 + 1/2 * m2 * v2 * v2 (conservation of 
-   kinetic energy)
+  1/2 * m1 * u1 * u1 + 1/2 * m2 * u2 * u2 =  1/2 * m1 * v1 * v1 + 1/2 * m2 * v2 * v2 (conservation of 
+  kinetic energy)
 
 **2) To estimate force of attraction between two particles...**
 
-	F = G * m1  * m2 / r * r 
+  F = G * m1  * m2 / r * r 
 
 **3) To find position and velocity of the new particle after coalescence of two particles...**
 
-	x = (m1 * x1  + m2 * x2) / m1 + m2 
+  x = (m1 * x1  + m2 * x2) / m1 + m2 
 
-	y = (m1 * y1  + m2 * y2) / m1 + m2 
+  y = (m1 * y1  + m2 * y2) / m1 + m2 
 
-	v = (m1 * v1  + m2 * v2) / m1 + m2
+  v = (m1 * v1  + m2 * v2) / m1 + m2
 
 If you wish to study this project more thoroughly, please check out the project here... 
 
 {% highlight yaml %} 
-url: https://github.com/rutvi1998/Zense-Project 
+    url: https://github.com/rutvi1998/Zense-Project 
 {% endhighlight %}
 
 Meanwhile, I have some screenshots that you can view to see how these simulations look!
@@ -75,3 +74,5 @@ Meanwhile, I have some screenshots that you can view to see how these simulation
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
+
+### Thank you!
