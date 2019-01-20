@@ -1,37 +1,27 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, me]
+date: 2019-01-20
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://user-images.githubusercontent.com/43961129/51439484-caab8080-1ce0-11e9-9c04-5f86df032930.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## About me 
+    Hey, I am Rutvi! 
+    
+    I am a first-year student, pursuing Electronics and Communication Engineering at International Institute of Information Technology, Bangalore. I am familiar with the programming languages Java, C++, Python and C. I am relatively new to the world of open-source development but I am entusiastic about it all the same.
+    
+    I'd say I am a chatty and cheerful girl. My hobbies include poetry, dancing, reading, sketching and travelling. I dream big becuause "it is precisely the possibility of realizing a dream that makes life interesting." Just quoted Paulo Coelho there.
+    
+    Guess that's all I had to say. 
+    
+    
+    Oh oh oh oh oh, I love candies!
+    
+    
+    
+    
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
