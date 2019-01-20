@@ -7,7 +7,7 @@ comments: false
 ---
 
 {% capture images %}
-    https://user-images.githubusercontent.com/43961129/51440693-bfac1c80-1cef-11e9-871d-b6b2d099daee.jpg
+    https://user-images.githubusercontent.com/43961129/51441602-5d581980-1cf9-11e9-898a-fa7b13e72eeb.jpg
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
