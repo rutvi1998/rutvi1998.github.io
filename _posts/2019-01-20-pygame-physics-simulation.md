@@ -45,7 +45,7 @@ The above formula has been derived from the equations given below :
 
   v = (m1 * v1  + m2 * v2) / m1 + m2
 
-If you wish to study this project more thoroughly, please check out the project [here](https://github.com/rutvi1998/Zense-Project). 
+If you wish to study this project more thoroughly, please check out the project [here](https://github.com/rutvi1998/Simulation-Project). 
 
 Meanwhile, I have some screenshots that you can view to see how these simulations look!
 
